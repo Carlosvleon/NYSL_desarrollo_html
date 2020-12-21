@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "utf-8">
+        <title>Registration form</title>
+<!--style-->
+        <link rel="stylesheet" href="assets/styles/style.css">
+    </head>
+    <body>
+        <div class="cuerpodepagina">
+<!--header-->
+            <header>
+                <div class="title"> Northside Youth Soccer League </div>
+<!--NAV-->
+                <nav>
+                    <a href="Index.html">Home</a>
+                    <a href="about.html">About</a>
+                    <a href="contact.html">Contact</a> 
+                    <a href="contact.html">Rules</a>
+                    <a href="calendar.html">Calendar</a>
+                    <a href="form.html" class="activebutton">Form</a>
+                </nav>
+            </header>
+            <div class="encabezado"></div>
+<!--contenido-->
+        <div class="subtitle">Registration form</div>
+            <form action="respuesta.html" target="_blank">
+                <div class="grid-container-form">
+                    <div class="grid-item-form"> 
+                        <label for="Name">Player’s First Name:</label>
+                        <input type="text" id="name" name="name" >
+                    </div>
+                    <div class="grid-item-form">
+                        <label for="lastname">Last Name:</label>
+                        <input type="text" id="lastname" name="lastname">
+                    </div>
+                    <div class="grid-item-form">
+                        <label for="address">Street Address:</label>
+                        <input type="text" id="address" name="address">
+                    </div>
+                    <div class="grid-item-form">
+                        <label for="city">City:</label>
+                        <input type="text" id="city" name="city">
+                    </div>
+                    <div class="grid-item-form">
+                        <label for="zip">Zip code:</label>
+                        <input type="text" id="zip" name="zip">
+                    </div>
+                    <div class="grid-item-form">
+                        <label for="bdate">Birth Date:</label>
+                        <input type="date" id="bdate" name="bdate">
+                    </div>
+                    <div class="grid-item-form">
+                        <p style="display: inline-flex;">Gender:</p>
+                        <label for="female">Female</label>
+                        <input type="radio" id="female" name="gender" value="female">
+                        <label for="male">Male</label>
+                        <input type="radio" id="male" name="gender" value="male">
+                        
+                    </div>
+                    <div class="grid-item-form">
+                        <p style="display: inline-flex;">Grade:</p>
+                        <input type="radio" id="pre-school" name="grade" value="pre-school">
+                        <label for="pre-school">Pre-School</label>
+                        <input type="radio" id="1st" name="grade" value="1st">
+                        <label for="1st">1st</label>
+                        <input type="radio" id="2st" name="grade" value="2st">
+                        <label for="2st">2st</label>
+                        <input type="radio" id="3st" name="grade" value="3st">
+                        <label for="3st">3st</label>
+                        <input type="radio" id="4st" name="grade" value="4st">
+                        <label for="4st">4st</label>
+                        <input type="radio" id="5st" name="grade" value="5st">
+                        <label for="5st">5st</label>
+                    </div>
+                </div>
+                <div class="grid-container-form-texto">
+                    <h4 class="item1">Which elementary school do you live near?</h4>
+                    <h6>Closest School:</h6>
+                </div>
+                <div class="grid-container-form">
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="ajkatzenmaier" name="school" value="aj-katzenmaier">
+                        <label for="ajkatzenmaier"> AJ Katzenmaier</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="marjoriephart" name="school" value="marjorie-p-hart">
+                        <label for="marjoriephart"> Marjorie P Hart</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="greenbay" name="school" value="greenbay">
+                        <label for="greenbay"> Greenbay</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="northelementary" name="school" value="north-elementary">
+                        <label for="northelementary"> North Elementary</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="howardayeager" name="school" value="howard-a-yeager">
+                        <label for="howardayeager"> Howard A Yeager</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="southelementary" name="school" value="south-elementary">
+                        <label for="southelementary"> South Elementary</label>
+                    </div>
+                </div>
+                <div class="grid-container-form-texto2">
+                    <h4 class="item1">What position(s) do you normally play? (check all that apply)</h4>
+                </div>
+                <div class="grid-container-form">
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="forward" name="position" value="forward">
+                        <label for="forward"> Forward</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="midfield" name="position" value="midfield">
+                        <label for="midfield"> Midfield</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="defense" name="position" value="defense">
+                        <label for="defense"> Defense</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="goalkeeper" name="position" value="goalkeeper">
+                        <label for="goalkeeper"> Goalkeeper</label>
+                    </div>
+                </div>
+                <div class="grid-container-form-texto2">
+                    <h4 class="item1">Uniform Size:</h4>
+                </div>
+                <div class="grid-container-form">
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="youthsmal" name="uniform-size" value="youthsmal">
+                        <label for="youthsmal"> Youth Smal</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="medium" name="uniform-size" value="medium">
+                        <label for="medium"> Medium</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="youthmedium" name="uniform-size" value="youthmedium">
+                        <label for="youthmedium"> Youth Medium</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="large" name="uniform-size" value="large">
+                        <label for="large"> Large</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="youthlarge" name="uniform-size" value="youthlarge">
+                        <label for="youthlarge"> Youth Large</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="extra-large" name="uniform-size" value="extra-large">
+                        <label for="extra-large"> Extra-Large</label>
+                    </div>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="small" name="uniform-size" value="small">
+                        <label for="small"> Small</label>
+                    </div>
+                </div>
+                <div class="grid-container-form-texto3">
+                    <h2>Permission to Play</h2>
+                    <p>I, the parent or guardian of the minor registrant, agree that the registrant and I will abide by all the rules of the Northside Youth Soccer League (NYSL). In recognizing the possibility of physical injury associated with soccer and in consideration for the “League” accepting the registrant for its soccer programs and activities, I hereby release, discharge, and/or otherwise indemnify NYSL, their employees and associated personnel and volunteers,including the facilities used for practices and games, against any claim by or on behalf of the registrant as a result of the registrant’s participation in the programand/orbeing transported to or from NYSL sponsored activities,which transportation</p>
+                    <p>By checking the box below, I herebyagree andauthorizethe above.In addition, by signing below, Ialso acknowledge that I have read the cancellation policy and agree to its terms.</p>
+                    <div class="grid-item-form">
+                        <input type="checkbox" id="read-confirmation" name="read-confirmation" value="yes">
+                        <label for="read-confirmation"> I agree and confirm that I have read the document in its entirety</label>
+                        </div>
+                    <br>
+                <div class="grid-item-form2"> 
+                    <label for="pname">Parent/Guardian Name:</label>
+                    <input type="text" id="pname" name="pname" ></input>
+                </div>
+                </div>
+        
+                <div class="grid-container-form" style="padding-top: 20px; padding-bottom: 100px;">
+                    <div class="grid-item-form">
+                        <input type="submit" value="Enviar mi formulario">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
