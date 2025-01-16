@@ -58,7 +58,14 @@ Una vez clonado, abre el archivo `index.html` en tu navegador favorito para visu
 
 A continuación, se muestra el boceto original proporcionado como referencia para el desarrollo de la página:
 
-![Sketch del diseño](images/sketch.png)
+### Página de Home
+![Sketch del diseño de la pagina home](img/readme/sketch_1.png)
+
+### Página de About
+![Sketch del diseño de la pagina about](img/readme/sketch_2.png)
+
+### Página de Contact
+![Sketch del diseño de la pagina contact](img/readme/sketch_3.png)
 
 ---
 
