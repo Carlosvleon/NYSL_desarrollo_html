@@ -42,8 +42,8 @@ Puedes clonar este repositorio para ejecutarlo localmente o simplemente visitar 
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/[usuario]/northside-youth-soccer-league.git
-cd northside-youth-soccer-league
+git clone https://github.com/Carlosvleon/NYSL_desarrollo_html.git
+cd NYSL_desarrollo_html
 ```
 
 ### Abrir Localmente
