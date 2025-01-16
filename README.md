@@ -72,7 +72,10 @@ A continuación, se muestra el boceto original proporcionado como referencia par
 ## Capturas del Sitio Final
 
 ### Página de Inicio
-![Captura de la página de inicio](images/homepage-screenshot.png)
+![Captura de la página de inicio](assets/img/readme/screen_final_1.png)
 
-### Sección de Equipos y Entrenadores
-![Captura de la sección de equipos](images/teams-screenshot.png)
+### Sección de About
+![Captura de la sección de About](assets/img/readme/screen_final_2.png)
+
+### Sección de Contacto
+![Captura de la sección de contacto](assets/img/readme/screen_final_3.png)
