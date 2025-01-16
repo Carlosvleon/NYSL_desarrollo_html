@@ -50,7 +50,7 @@ cd northside-youth-soccer-league
 Una vez clonado, abre el archivo `index.html` en tu navegador favorito para visualizar el sitio.
 
 ### Visitar en GitHub Pages
-[Haz clic aquí para visitar el sitio en GitHub Pages](https://carlosvleon.github.io/mod1tarea5/)
+[Haz clic aquí para visitar el sitio en GitHub Pages](https://carlosvleon.github.io/NYSL_desarrollo_html/)
 
 ---
 
