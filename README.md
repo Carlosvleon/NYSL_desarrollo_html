@@ -1,6 +1,6 @@
 # Northside Youth Soccer League Website
 
-Este es el repositorio del sitio web desarrollado como parte de un proyecto académico del curso de **Programación Front-End** implementado por **Talento Digital** en el año 2020. El sitio web fue solicitado por el tutor del curso como ejercicio práctico para aplicar los conocimientos adquiridos en HTML, CSS y JavaScript.
+Este es el repositorio del sitio web desarrollado como parte de un proyecto académico del curso de **Programación Front-End** implementado por **Talento Digital** en el año 2020. El sitio web fue solicitado por el tutor del curso como ejercicio práctico para aplicar los conocimientos adquiridos en HTML, CSS y JavaScript, siendo este la primera evaluacion del curso
 
 ---
 
@@ -27,8 +27,8 @@ El sitio cuenta con las siguientes secciones/páginas:
 - **CSS3**: Estilos y diseño del sitio.
 - **JavaScript**: Funcionalidad e interactividad básica.
 
-### Diseño Responsivo
-El sitio está diseñado para ser accesible y funcional tanto en computadoras de escritorio como en dispositivos móviles.
+### Diseño 
+El sitio está diseñado para ser visible solo en navegadores
 
 ### Imágenes y Logotipo
 - Se incluye el logotipo oficial ficticio de la liga.
