@@ -79,3 +79,12 @@ A continuación, se muestra el boceto original proporcionado como referencia par
 
 ### Sección de Contacto
 ![Captura de la sección de contacto](assets/img/readme/screen_final_3.png)
+
+## Contacto
+
+Para consultas o sugerencias relacionadas con este proyecto, puedes contactar a:
+
+- **Nombre del Autor:** Carlos Vallejos
+- **Correo Electrónico:** [vallejos.leon.carlos@gmail.com]  
+- **Curso:** Programación Front-End - Talento Digital (2023)  
+
