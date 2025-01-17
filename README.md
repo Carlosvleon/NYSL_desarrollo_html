@@ -59,11 +59,11 @@ Una vez clonado, abre el archivo `index.html` en tu navegador favorito para visu
 A continuación, se muestra el boceto original proporcionado como referencia para el desarrollo de la página:
 
 <p align="center">
-    ## Página de Home
+    <h1> Página de Home</h1>
     <img src="assets/img/readme/sketch_1.jpg" alt="final_vertical_1" width="100%">
-    ## Página de About
+    <h1> Página de About</h1>
     <img src="assets/img/readme/sketch_2.jpg" alt="final_vertical_2" width="100%">
-    ## Página de Contact
+    <h1> Página de Contact</h1>
     <img src="assets/img/readme/sketch_3.jpg" alt="final_vertical_3" width="100%">
 </p>
 
@@ -72,11 +72,11 @@ A continuación, se muestra el boceto original proporcionado como referencia par
 ## 📷 Capturas del Sitio Final
 
 <p align="center">
-    ## Página de Home
+    <h1> Página de Home</h1>
     <img src="assets/img/readme/screen_final_1.png" alt="final_vertical_1" width="100%">
-    ## Página de About
+    <h1> Página de About</h1>
     <img src="assets/img/readme/screen_final_2.png" alt="final_vertical_2" width="100%">
-    ## Página de Contact
+    <h1> Página de Contact</h1>
     <img src="assets/img/readme/screen_final_3.png" alt="final_vertical_3" width="100%">
 </p>
 
